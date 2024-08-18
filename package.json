@@ -40,7 +40,7 @@
     "@typescript-eslint/eslint-plugin": "5.59.6",
     "@typescript-eslint/parser": "5.59.6",
     "autoprefixer": "10.4.14",
-    "eslint": "8.40.0",
+    "eslint": "^9.9.0",
     "eslint-config-next": "13.4.2",
     "eslint-config-prettier": "8.8.0",
     "eslint-plugin-prettier": "4.2.1",
@@ -49,8 +49,8 @@
     "prettier-plugin-tailwindcss": "^0.2.8",
     "prisma": "4.14.0",
     "prisma-kysely": "1.5.0",
-    "tailwindcss": "3.3.0",
     "sql-formatter": "12.2.3",
+    "tailwindcss": "3.3.0",
     "typescript": "5.0.4",
     "vitest": "0.33.0"
   },
